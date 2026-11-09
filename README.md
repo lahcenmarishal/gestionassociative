@@ -1,27 +1,51 @@
-# Harmony Hub Revival
+# Association Eddahab
 
-I have an existing GitHub repo, copy the code into this Lovable project
-Here is my GitHub repo: https://github.com/lahcenmarishal/association-harmony-hub/
+Plateforme web de gestion associative développée pour l'Association Eddahab, spécialisée dans la distribution d'eau potable, le développement local et la coopération.
 
-This project was built with [Lovable](https://lovable.dev).
+Site en ligne : https://gestionassociative.netlify.app/
 
-**Live app**: https://harmony-connect-flow.lovable.app
+## Le problème
 
-## Build with Lovable
+La gestion d'une association nécessite le suivi des abonnés, des recettes, des dépenses, des employés et des activités. Ces opérations peuvent devenir complexes lorsqu'elles sont réalisées manuellement.
 
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/a8e66108-cf6a-4737-bc0c-6de41847efb3).
+## La solution
 
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
+Une plateforme numérique permettant de centraliser et simplifier la gestion quotidienne de l'association :
 
-## Development
+1. Suivi des abonnés et de la distribution d'eau potable.
+2. Gestion des recettes, dépenses et soldes financiers.
+3. Organisation des activités et gestion des employés.
+4. Génération de rapports administratifs et financiers.
 
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+## Fonctionnalités
 
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+- Gestion des abonnés et des cotisations
+- Suivi de la distribution d'eau potable
+- Gestion financière (recettes, dépenses et soldes)
+- Gestion des activités et des employés
+- Génération de rapports PDF, Excel et PPTX
+- Interface en arabe et en français
+- Gestion des rôles et des permissions
+- Tableau de bord administratif
+- Interface responsive
+
+## Technologies
+
+- React
+- TypeScript
+- Vite
+- Tailwind CSS
+- Supabase
+
+## Installation
+
+```bash
+git clone https://github.com/lahcenmarishal/association-sync-space.git
+cd association-sync-space
+npm install
 npm run dev
 ```
+
+## Auteur
+
+Lahcen, développeur IA.
