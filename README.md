@@ -40,8 +40,8 @@ Une plateforme numérique permettant de centraliser et simplifier la gestion quo
 ## Installation
 
 ```bash
-git clone https://github.com/lahcenmarishal/association-sync-space.git
-cd association-sync-space
+git clone https://github.com/lahcenmarishal/gestionassociative.git
+cd gestionassociative
 npm install
 npm run dev
 ```
